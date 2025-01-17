@@ -53,7 +53,7 @@ function App() {
                 className="w-[80%] h-10  rounded-full  text-center bg-white/40 "
               />
               <button
-                className="bg-black rounded-full w-10 h-10 "
+                className="bg-white/90 rounded-full w-10 h-10 "
                 type="submit"
                 // onClick={() => setSearchTerm(inputRef.current.value)}
               >
